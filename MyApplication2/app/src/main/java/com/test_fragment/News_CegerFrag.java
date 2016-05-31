@@ -37,11 +37,11 @@ public class News_CegerFrag extends Fragment{
         View view = inflater.inflate(R.layout.fragment_news_categer, null);
         list_iem = (ListView) view.findViewById(R.id.list_items);
         lodingIamg();
-        this.context=News_CegerFrag.this.getContext();
+
         return view;
     }
     private void lodingIamg() {
-        con_http= new Com_http(News_CegerFrag.this.getContext(),list_iem,listviewadaper,tittle);
+        con_http= new Com_http(context,list_iem,listviewadaper,tittle);
     }
 
     public void setContext(Context context) {

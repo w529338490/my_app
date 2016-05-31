@@ -4,6 +4,10 @@
         "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
@@ -14,5 +18,9 @@
     {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

@@ -66,6 +66,7 @@ public class FondFragment extends Fragment {
         @Override
         public Fragment getItem(int position) {
             News_CegerFrag fragment = new News_CegerFrag();
+            context=fragment.getContext();
 
             fragment.setTittle(CONTENT[position]);
             fragment.setContext(activity);

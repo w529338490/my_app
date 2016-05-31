@@ -12,6 +12,46 @@
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_top.xml"
     },
     {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_in.xml"
     },
@@ -32,12 +72,12 @@
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
-        "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
@@ -48,35 +88,35 @@
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
-        "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_exit.xml"
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
         "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
-        "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
-        "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_out.xml"
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
         "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
-        "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_top.xml"
     }
 ]

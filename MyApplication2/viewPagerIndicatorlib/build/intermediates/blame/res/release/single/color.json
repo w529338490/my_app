@@ -12,6 +12,10 @@
         "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\src\\main\\res\\color\\vpi__light_theme.xml"
     },
     {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
     },
@@ -20,16 +24,28 @@
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
-        "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_search_url_text.xml"
     },
     {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\src\\main\\res\\color\\vpi__light_theme.xml"
     },
     {
+        "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
@@ -40,16 +56,20 @@
         "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\src\\main\\res\\color\\vpi__dark_theme.xml"
     },
     {
-        "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
-        "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_search_url_text.xml"
     },
     {
+        "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
         "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
         "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
@@ -64,12 +84,28 @@
         "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
         "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
         "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
         "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
         "source": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
@@ -90,6 +126,14 @@
     {
         "merged": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
         "source": "E:\\BOY\\RedBabyMarket\\viewPagerIndicatorLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\A_git\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "E:\\MyApplication2\\viewPagerIndicatorlib\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",

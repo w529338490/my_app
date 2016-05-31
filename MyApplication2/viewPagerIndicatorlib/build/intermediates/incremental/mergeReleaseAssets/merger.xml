@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\MyApplication2\viewPagerIndicatorlib\src\main\assets"/><source path="E:\MyApplication2\viewPagerIndicatorlib\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\MyApplication2\viewPagerIndicatorlib\src\release\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\A_git\MyApplication2\viewPagerIndicatorlib\src\main\assets"/><source path="E:\A_git\MyApplication2\viewPagerIndicatorlib\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\A_git\MyApplication2\viewPagerIndicatorlib\src\release\assets"/></dataSet></merger>

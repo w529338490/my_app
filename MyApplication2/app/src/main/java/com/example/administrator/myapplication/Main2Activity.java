@@ -1,5 +1,6 @@
 package com.example.administrator.myapplication;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -12,7 +13,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action1;
 import rx.functions.Func1;
 
-public class Main2Activity extends AppCompatActivity {
+public class Main2Activity extends Activity {
     private ImageView star_img_bg;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
