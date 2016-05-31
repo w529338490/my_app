@@ -19,7 +19,7 @@
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
            android:orientation="horizontal"
-           android:background="@color/hui"
+           android:background="@color/red"
            >
        <RadioButton
            android:id="@+id/btn_news"

@@ -30,7 +30,7 @@
 
          android:textSize="20dp"
          android:lines="2"
-         android:textColorHighlight="@color/balck"
+         android:textColorHighlight="@color/blue"
          android:text="aaaaaaaa"/>
         <TextView android:id="@+id/news_src"
             android:layout_width="wrap_content"
@@ -42,7 +42,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="right"
-            android:textColor="@color/graw"
+            android:textColor="@color/red"
             android:lines="1"
             android:text="aaaaaaaa"/>
 </LinearLayout>
