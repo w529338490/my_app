@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ImageCoverFlow-master/ImageCoverFlow-master.iml" filepath="$PROJECT_DIR$/../ImageCoverFlow-master/ImageCoverFlow-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageCoverflowDemo.iml" filepath="$PROJECT_DIR$/ImageCoverflowDemo.iml" />
+    </modules>
+  </component>
+</project>
+
