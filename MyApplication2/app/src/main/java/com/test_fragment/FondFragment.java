@@ -59,6 +59,9 @@ public class FondFragment extends Fragment {
         pager.setAdapter(adapter);
         indicator.setViewPager(pager);
     }
+
+
+
     class GoogleMusicAdapter extends FragmentPagerAdapter{
         public GoogleMusicAdapter(FragmentManager fm) {
             super(fm);
@@ -67,7 +70,6 @@ public class FondFragment extends Fragment {
         public Fragment getItem(int position) {
             News_CegerFrag fragment = new News_CegerFrag();
             context=fragment.getContext();
-
             fragment.setTittle(CONTENT[position]);
             fragment.setContext(activity);
             return fragment;

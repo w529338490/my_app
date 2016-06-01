@@ -25,10 +25,12 @@ public class News_CegerFrag extends Fragment{
 
     Context context;
     ListView list_iem;
-    com.com.adapter.listviewadaper listviewadaper;
+    listviewadaper listviewadaper;
     Com_http con_http;
     String tittle;
     private PtrFrameLayout ptr;
+
+
     public String getTittle() {
         return tittle;
     }
@@ -59,18 +61,13 @@ public class News_CegerFrag extends Fragment{
         this.context = context;
     }
     private void initPtr() {
-
-// header
-        final MaterialHeader header = new MaterialHeader(context);
-        int[] colors = getResources().getIntArray(R.array.google_colors);
-
-        header.setColorSchemeColors(colors);
+        // header
+        StoreHouseHeader header = new StoreHouseHeader(context);
         header.setLayoutParams(new PtrFrameLayout.LayoutParams(-1, -2));
         header.setPadding(0, DisplayUtil.dip2px(context, 15), 0, DisplayUtil.dip2px(context, 10));
-        header.setPtrFrameLayout(ptr);
+        header.initWithString("HAPPY DAY");
+        header.setTextColor(getResources().getColor(R.color.red));
 
-        // material header是否为覆盖式
-        ptr.setPinContent(true);
         ptr.setHeaderView(header);
         ptr.addPtrUIHandler(header);
         ptr.postDelayed(new Runnable()
@@ -78,8 +75,6 @@ public class News_CegerFrag extends Fragment{
             @Override
             public void run()
             {
-
-
                 ptr.autoRefresh(true);
             }
         }, 150);
@@ -95,8 +90,6 @@ public class News_CegerFrag extends Fragment{
                     @Override
                     public void run()
                     {
-
-
                         ptr.refreshComplete();
                     }
                 }, 1800);
@@ -109,5 +102,6 @@ public class News_CegerFrag extends Fragment{
             }
         });
     }
+
 
 }
