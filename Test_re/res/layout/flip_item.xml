@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.75" 
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/flip_img"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:src="@drawable/cao"
+            />
+        
+        <TextView
+            android:id="@+id/flip_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AAAAAAAAAAAAAAAAAAAAAAAa"
+            android:layout_gravity="center_vertical"
+           
+           />
+    </LinearLayout>
+<Button android:id="@+id/btn_back"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="go_to_web"/>
+   <Button android:id="@+id/btn_back_web"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="back"/>
+   
+
+</LinearLayout>
