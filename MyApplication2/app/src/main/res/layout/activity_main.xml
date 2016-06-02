@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.myapplication.MainActivity"
+    android:orientation="vertical"
+    >
+
+      <FrameLayout
+          android:id="@+id/main_content"
+          android:layout_width="match_parent"
+          android:layout_weight="1"
+          android:layout_height="0dp">
+
+      </FrameLayout>
+       <RadioGroup
+           android:id="@+id/radio_main"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal"
+           android:background="@color/write"
+           >
+       <RadioButton
+           android:id="@+id/btn_news"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:drawableTop="@drawable/btn_news_selector"
+           android:gravity="center_horizontal"
+           android:layout_weight="1"
+           android:button="@null"
+           android:text="综合"/>
+           <RadioButton
+               android:id="@+id/btn_tween"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:drawableTop="@drawable/btn_tween_selector"
+               android:gravity="center_horizontal"
+               android:layout_weight="1"
+               android:button="@null"
+               android:text="动弹"/>
+           <RadioButton
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:drawableTop="@drawable/btn_more_selector"
+               android:gravity="center_horizontal"
+               android:layout_weight="1"
+               android:button="@null"
+               />
+           <RadioButton
+                android:id="@+id/btn_fond"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:drawableTop="@drawable/btn_fond_selector"
+               android:gravity="center_horizontal"
+               android:layout_weight="1"
+               android:button="@null"
+               android:text="发现"/>
+           <RadioButton
+               android:id="@+id/btn_me"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:drawableTop="@drawable/btn_me_selector"
+               android:gravity="center_horizontal"
+               android:layout_weight="1"
+               android:button="@null"
+               android:text="我"/>
+
+
+       </RadioGroup>
+</LinearLayout>

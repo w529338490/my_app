@@ -1,0 +1,3 @@
+include ':app', ':viewPagerIndicatorlib', ':ptr-libs'
+
+project(':ptr-libs').projectDir = new File('ptr-lib')
